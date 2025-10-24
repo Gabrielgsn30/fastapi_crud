@@ -1,4 +1,4 @@
-# Nome do workflow que aparecerá na aba Actions do GitHub
+# Nome do workflow que aparecerá na aba Actions do GitHub.
 name: Build, Push, and Deploy Docker Image
 
 # Define o gatilho: esse workflow será executado quando houver um push na branch "main"
